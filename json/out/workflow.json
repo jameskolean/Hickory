@@ -1,0 +1,13 @@
+{
+  "id" : "WF-ID-01",
+  "label" : "Sample Label",
+  "answer" : null,
+  "workflow" : null,
+  "children" : [ {
+    "id" : "WF-ID-02",
+    "label" : "Sample Child Label",
+    "answer" : null,
+    "workflow" : null,
+    "children" : null
+  } ]
+}
